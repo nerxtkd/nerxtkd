@@ -15,7 +15,7 @@
 - Python for cybersecurity automation  
 
 ### 📫 Let's connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nerea-carrasco-39618b370)
 - ✉️ Email: nerxtkd@gmail.com
 
 ### 🧑‍💻 Programming Activity
