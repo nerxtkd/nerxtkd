@@ -14,7 +14,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: output/pacman-contribution-graph.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.Pacman_Token }}
           base: ""
           plugin_contributions: yes
           plugin_contributions_sections: repositories
